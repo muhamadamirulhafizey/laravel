@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel branchone
+                    Laravel master
                 </div>
 
                 <div class="links">
